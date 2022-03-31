@@ -1,2 +1,2 @@
 # Latent-Space-Modelling
-Latent space modelling of network of school sports fixtures
+Latent space modelling of a network of school sports fixtures.
